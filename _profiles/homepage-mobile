@@ -22,7 +22,7 @@ interval: 12
 # WebPageTest test parameters
 #
 parameters:
-  connectivity: "3G"
+  connectivity: "Mobile 3G"
   location: "Dulles_MotoG4:Moto G4 - Chrome"
   runs: 1
   url: "http://www.hitched.co.uk"
